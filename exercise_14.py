@@ -10,3 +10,5 @@
 # * * *  
 # * *  
 # *
+
+# use loop and range
